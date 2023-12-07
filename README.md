@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandre Nutsubidze</h1>
 <h3 align="center">Full-Stack developer within 2 year of experience from Georgia</h3>
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nutsu31&label=Profile%20views&color=0e75b6&style=flat" alt="nutsu31" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nutsu31?tab=repositories](https://github.com/Nutsu31?tab=repositories)
 
-- 💬 Ask me about **Full-Stack developer with 2 years of experience**
+- 💬 **Full-Stack developer with 2 years of experience**
 
 - 📫 How to reach me **Aleksandrenutsubidze@gmail.com**
 
